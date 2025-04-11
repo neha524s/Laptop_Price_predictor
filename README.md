@@ -21,6 +21,6 @@ This app uses a **Random Forest Regressor** machine learning model to predict la
 - Select from popular brands and specs.
 - User-friendly interface via Streamlit.
 
-![App Screenshot](app_screenshot.png)
+
   
 
