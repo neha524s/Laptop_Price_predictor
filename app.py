@@ -6,12 +6,12 @@ import pandas as pd
 st.markdown("""
     <style>
         .main {
-            background-color: #f0f8ff; /* Light blue background */
+            background-color: #f0f8ff; 
             color: #333333;
         }
 
         h1 {
-            color: #1f77b4; /* Custom title color */
+            color: #1f77b4; 
         }
 
         .stButton>button {
