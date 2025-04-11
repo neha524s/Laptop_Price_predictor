@@ -3,25 +3,6 @@ import pickle
 import numpy as np
 import pandas as pd
 
-st.markdown("""
-    <style>
-        .main {
-            background-color: #f0f8ff; 
-            color: #333333;
-        }
-
-        h1 {
-            color: #1f77b4; 
-        }
-
-        .stButton>button {
-            background-color: #1f77b4;
-            color: white;
-            border-radius: 8px;
-        }
-    </style>
-""", unsafe_allow_html=True)
-
 pipe = pickle.load(open('pipe1.pkl', 'rb'))
 df = pickle.load(open('df1.pkl', 'rb'))
 
