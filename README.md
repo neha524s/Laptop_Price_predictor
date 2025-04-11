@@ -8,6 +8,13 @@ This is a machine learning app that predicts laptop prices based on various hard
 - Streamlit
 - scikit-learn
 - pandas, numpy
+  
+## ⚙️ Model Used
+
+This app uses a **Random Forest Regressor** machine learning model to predict laptop prices.
+
+- Trained on a dataset of various laptop specifications
+- Achieved an **R² score of 90%** on the test set
 
 ## ✨ Features
 - Predict laptop prices in real-time.
