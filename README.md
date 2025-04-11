@@ -21,6 +21,7 @@ This app uses a **Random Forest Regressor** machine learning model to predict la
 - Select from popular brands and specs.
 - User-friendly interface via Streamlit.
 
-![App Screenshot]("C:\Users\nehas\OneDrive\Pictures\Screenshots\app_screenshot.png")
+<img width="407" alt="1" src="C:\Users\nehas\OneDrive\Pictures\Screenshots\app_screenshot.png">
+
   
 
