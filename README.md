@@ -25,9 +25,9 @@ This app uses a **Random Forest Regressor** machine learning model to predict la
 
 ## ⚖️ Result Comparison
 
-Real Price :
+* Real Price :
 ![Image](https://github.com/user-attachments/assets/42a3d8e9-ebf8-456f-96fc-d4fc02a2ed36)
 
-Predicted Price :
-
+* Predicted Price :
+![Image](https://github.com/user-attachments/assets/5094db41-28d6-4cb9-a960-e7cfa123afe1)
 
