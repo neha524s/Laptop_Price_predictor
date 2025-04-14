@@ -22,5 +22,5 @@ This app uses a **Random Forest Regressor** machine learning model to predict la
 - User-friendly interface via Streamlit.
 
 
-  
+  ![Image](https://github.com/user-attachments/assets/449d7c38-bf16-4aac-862d-d8bd586c4dc3)
 
